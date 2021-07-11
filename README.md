@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jane
-- 👀 I’m interested in chess, deep learning and quatum computing  
-- 🌱 I’m currently learning Q#
+- 👀 I’m interested in computers and catgirls
+- 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me Jane ❤#7874
 
 <!---

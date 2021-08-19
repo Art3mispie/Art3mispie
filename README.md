@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jane
 - 👀 I’m interested in computers and catgirls
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning making my portfolio
 
 <!---
 juneberries/juneberries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

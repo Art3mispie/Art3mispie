@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jane she/her
+- 👋 Hi, I’m Jane (she/her)
 - 👀 I’m interested in computers and catgirls
 - 🌱 I’m currently working on a javascript project
 
